@@ -1,0 +1,9 @@
+C:\Users\tangzc\Desktop\wms\wmsc\DelPhiCommon\bin\Debug\DelPhiCommon.dll
+C:\Users\tangzc\Desktop\wms\wmsc\DelPhiCommon\bin\Debug\DelPhiCommon.pdb
+C:\Users\tangzc\Desktop\wms\wmsc\DelPhiCommon\obj\Debug\WmsCommon.csprojAssemblyReference.cache
+C:\Users\tangzc\Desktop\wms\wmsc\DelPhiCommon\obj\Debug\WmsCommon.csproj.CoreCompileInputs.cache
+C:\Users\tangzc\Desktop\wms\wmsc\DelPhiCommon\obj\Debug\DelPhiCommon.dll
+C:\Users\tangzc\Desktop\wms\wmsc\DelPhiCommon\obj\Debug\DelPhiCommon.pdb
+C:\Users\tangzc\Desktop\wms\wmsc\DelPhiCommon\bin\Debug\DelPhiModel.dll
+C:\Users\tangzc\Desktop\wms\wmsc\DelPhiCommon\bin\Debug\DelPhiModel.pdb
+C:\Users\tangzc\Desktop\wms\wmsc\DelPhiCommon\obj\Debug\WmsCommon.csproj.CopyComplete

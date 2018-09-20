@@ -1,0 +1,11 @@
+C:\Users\tangzc\Desktop\wms\wmsc\DelPhiBLL\bin\Debug\DelPhiBLL.dll
+C:\Users\tangzc\Desktop\wms\wmsc\DelPhiBLL\bin\Debug\DelPhiBLL.pdb
+C:\Users\tangzc\Desktop\wms\wmsc\DelPhiBLL\bin\Debug\DelPhiCommon.dll
+C:\Users\tangzc\Desktop\wms\wmsc\DelPhiBLL\bin\Debug\DelPhiModel.dll
+C:\Users\tangzc\Desktop\wms\wmsc\DelPhiBLL\bin\Debug\DelPhiCommon.pdb
+C:\Users\tangzc\Desktop\wms\wmsc\DelPhiBLL\bin\Debug\DelPhiModel.pdb
+C:\Users\tangzc\Desktop\wms\wmsc\DelPhiBLL\obj\Debug\WmsBLL.csprojAssemblyReference.cache
+C:\Users\tangzc\Desktop\wms\wmsc\DelPhiBLL\obj\Debug\WmsBLL.csproj.CoreCompileInputs.cache
+C:\Users\tangzc\Desktop\wms\wmsc\DelPhiBLL\obj\Debug\WmsBLL.csproj.CopyComplete
+C:\Users\tangzc\Desktop\wms\wmsc\DelPhiBLL\obj\Debug\DelPhiBLL.dll
+C:\Users\tangzc\Desktop\wms\wmsc\DelPhiBLL\obj\Debug\DelPhiBLL.pdb

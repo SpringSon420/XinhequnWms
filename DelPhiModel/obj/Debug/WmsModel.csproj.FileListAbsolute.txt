@@ -1,0 +1,6 @@
+C:\Users\tangzc\Desktop\wms\wmsc\DelPhiModel\bin\Debug\DelPhiModel.dll
+C:\Users\tangzc\Desktop\wms\wmsc\DelPhiModel\bin\Debug\DelPhiModel.pdb
+C:\Users\tangzc\Desktop\wms\wmsc\DelPhiModel\obj\Debug\WmsModel.csprojAssemblyReference.cache
+C:\Users\tangzc\Desktop\wms\wmsc\DelPhiModel\obj\Debug\WmsModel.csproj.CoreCompileInputs.cache
+C:\Users\tangzc\Desktop\wms\wmsc\DelPhiModel\obj\Debug\DelPhiModel.dll
+C:\Users\tangzc\Desktop\wms\wmsc\DelPhiModel\obj\Debug\DelPhiModel.pdb
